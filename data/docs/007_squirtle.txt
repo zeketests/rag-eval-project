@@ -1,0 +1,8 @@
+Name: Squirtle
+Pokedex number: 7
+Types: water
+Height: 0.5 m
+Weight: 9.0 kg
+Abilities: torrent, rain-dish (hidden)
+Base stats: hp 44, attack 48, defense 65, special-attack 50, special-defense 64, speed 43
+Description: After birth, its back swells and hardens into a shell. Powerfully sprays foam from its mouth.

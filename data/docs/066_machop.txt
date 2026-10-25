@@ -1,0 +1,8 @@
+Name: Machop
+Pokedex number: 66
+Types: fighting
+Height: 0.8 m
+Weight: 19.5 kg
+Abilities: guts, no-guard, steadfast (hidden)
+Base stats: hp 70, attack 80, defense 50, special-attack 35, special-defense 35, speed 35
+Description: Loves to build its muscles. It trains in all styles of martial arts to become even stronger.

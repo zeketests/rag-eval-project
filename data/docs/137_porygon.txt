@@ -1,0 +1,8 @@
+Name: Porygon
+Pokedex number: 137
+Types: normal
+Height: 0.8 m
+Weight: 36.5 kg
+Abilities: trace, download, analytic (hidden)
+Base stats: hp 65, attack 60, defense 70, special-attack 85, special-defense 75, speed 40
+Description: A POKéMON that consists entirely of programming code. Capable of moving freely in cyberspace.

@@ -1,0 +1,8 @@
+Name: Gyarados
+Pokedex number: 130
+Types: water, flying
+Height: 6.5 m
+Weight: 235.0 kg
+Abilities: intimidate, moxie (hidden)
+Base stats: hp 95, attack 125, defense 79, special-attack 60, special-defense 100, speed 81
+Description: Rarely seen in the wild. Huge and vicious, it is capable of destroying entire cities in a rage.

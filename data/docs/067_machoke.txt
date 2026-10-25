@@ -1,0 +1,8 @@
+Name: Machoke
+Pokedex number: 67
+Types: fighting
+Height: 1.5 m
+Weight: 70.5 kg
+Abilities: guts, no-guard, steadfast (hidden)
+Base stats: hp 80, attack 100, defense 70, special-attack 50, special-defense 60, speed 45
+Description: Its muscular body is so powerful, it must wear a power save belt to be able to regulate its motions.

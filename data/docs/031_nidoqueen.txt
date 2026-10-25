@@ -1,0 +1,8 @@
+Name: Nidoqueen
+Pokedex number: 31
+Types: poison, ground
+Height: 1.3 m
+Weight: 60.0 kg
+Abilities: poison-point, rivalry, sheer-force (hidden)
+Base stats: hp 90, attack 92, defense 87, special-attack 75, special-defense 85, speed 76
+Description: Its hard scales provide strong protection. It uses its hefty bulk to execute powerful moves.

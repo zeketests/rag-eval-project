@@ -1,0 +1,8 @@
+Name: Raticate
+Pokedex number: 20
+Types: normal
+Height: 0.7 m
+Weight: 18.5 kg
+Abilities: run-away, guts, hustle (hidden)
+Base stats: hp 55, attack 81, defense 60, special-attack 50, special-defense 70, speed 97
+Description: It uses its whis­ kers to maintain its balance. It apparently slows down if they are cut off.

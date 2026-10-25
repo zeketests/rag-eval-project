@@ -1,0 +1,8 @@
+Name: Pidgey
+Pokedex number: 16
+Types: normal, flying
+Height: 0.3 m
+Weight: 1.8 kg
+Abilities: keen-eye, tangled-feet, big-pecks (hidden)
+Base stats: hp 40, attack 45, defense 40, special-attack 35, special-defense 35, speed 56
+Description: A common sight in forests and woods. It flaps its wings at ground level to kick up blinding sand.

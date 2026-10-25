@@ -1,0 +1,8 @@
+Name: Sandslash
+Pokedex number: 28
+Types: ground
+Height: 1.0 m
+Weight: 29.5 kg
+Abilities: sand-veil, sand-rush (hidden)
+Base stats: hp 75, attack 100, defense 110, special-attack 45, special-defense 55, speed 65
+Description: Curls up into a spiny ball when threatened. It can roll while curled up to attack or escape.

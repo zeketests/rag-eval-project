@@ -1,0 +1,8 @@
+Name: Mewtwo
+Pokedex number: 150
+Types: psychic
+Height: 2.0 m
+Weight: 122.0 kg
+Abilities: pressure, unnerve (hidden)
+Base stats: hp 106, attack 110, defense 90, special-attack 154, special-defense 90, speed 130
+Description: It was created by a scientist after years of horrific gene splicing and DNA engineering experiments.

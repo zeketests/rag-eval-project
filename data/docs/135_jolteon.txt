@@ -1,0 +1,8 @@
+Name: Jolteon
+Pokedex number: 135
+Types: electric
+Height: 0.8 m
+Weight: 24.5 kg
+Abilities: volt-absorb, quick-feet (hidden)
+Base stats: hp 65, attack 65, defense 60, special-attack 110, special-defense 95, speed 130
+Description: It accumulates negative ions in the atmosphere to blast out 10000- volt lightning bolts.

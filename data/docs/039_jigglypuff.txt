@@ -1,0 +1,8 @@
+Name: Jigglypuff
+Pokedex number: 39
+Types: normal, fairy
+Height: 0.5 m
+Weight: 5.5 kg
+Abilities: cute-charm, competitive, friend-guard (hidden)
+Base stats: hp 115, attack 45, defense 20, special-attack 45, special-defense 25, speed 20
+Description: When its huge eyes light up, it sings a mysteriously soothing melody that lulls its enemies to sleep.

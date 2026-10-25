@@ -1,0 +1,8 @@
+Name: Oddish
+Pokedex number: 43
+Types: grass, poison
+Height: 0.5 m
+Weight: 5.4 kg
+Abilities: chlorophyll, run-away (hidden)
+Base stats: hp 45, attack 50, defense 55, special-attack 75, special-defense 65, speed 30
+Description: During the day, it keeps its face buried in the ground. At night, it wanders around sowing its seeds.

@@ -1,0 +1,8 @@
+Name: Ivysaur
+Pokedex number: 2
+Types: grass, poison
+Height: 1.0 m
+Weight: 13.0 kg
+Abilities: overgrow, chlorophyll (hidden)
+Base stats: hp 60, attack 62, defense 63, special-attack 80, special-defense 80, speed 60
+Description: When the bulb on its back grows large, it appears to lose the ability to stand on its hind legs.

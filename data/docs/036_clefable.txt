@@ -1,0 +1,8 @@
+Name: Clefable
+Pokedex number: 36
+Types: fairy
+Height: 1.3 m
+Weight: 40.0 kg
+Abilities: cute-charm, magic-guard, unaware (hidden)
+Base stats: hp 95, attack 70, defense 73, special-attack 95, special-defense 90, speed 60
+Description: A timid fairy POKéMON that is rarely seen. It will run and hide the moment it senses people.

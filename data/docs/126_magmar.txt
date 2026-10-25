@@ -1,0 +1,8 @@
+Name: Magmar
+Pokedex number: 126
+Types: fire
+Height: 1.3 m
+Weight: 44.5 kg
+Abilities: flame-body, vital-spirit (hidden)
+Base stats: hp 65, attack 95, defense 57, special-attack 100, special-defense 85, speed 93
+Description: Its body always burns with an orange glow that enables it to hide perfectly among flames.

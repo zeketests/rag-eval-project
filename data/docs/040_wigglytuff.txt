@@ -1,0 +1,8 @@
+Name: Wigglytuff
+Pokedex number: 40
+Types: normal, fairy
+Height: 1.0 m
+Weight: 12.0 kg
+Abilities: cute-charm, competitive, frisk (hidden)
+Base stats: hp 140, attack 70, defense 45, special-attack 85, special-defense 50, speed 45
+Description: The body is soft and rubbery. When angered, it will suck in air and inflate itself to an enormous size.

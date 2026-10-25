@@ -1,0 +1,8 @@
+Name: Cubone
+Pokedex number: 104
+Types: ground
+Height: 0.4 m
+Weight: 6.5 kg
+Abilities: rock-head, lightning-rod, battle-armor (hidden)
+Base stats: hp 50, attack 50, defense 95, special-attack 40, special-defense 50, speed 35
+Description: Because it never removes its skull helmet, no one has ever seen this POKéMON's real face.

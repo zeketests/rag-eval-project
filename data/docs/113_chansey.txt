@@ -1,0 +1,8 @@
+Name: Chansey
+Pokedex number: 113
+Types: normal
+Height: 1.1 m
+Weight: 34.6 kg
+Abilities: natural-cure, serene-grace, healer (hidden)
+Base stats: hp 250, attack 5, defense 5, special-attack 35, special-defense 105, speed 50
+Description: A rare and elusive POKéMON that is said to bring happiness to those who manage to get it.

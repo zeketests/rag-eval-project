@@ -1,0 +1,8 @@
+Name: Magneton
+Pokedex number: 82
+Types: electric, steel
+Height: 1.0 m
+Weight: 60.0 kg
+Abilities: magnet-pull, sturdy, analytic (hidden)
+Base stats: hp 50, attack 60, defense 95, special-attack 120, special-defense 70, speed 70
+Description: Formed by several MAGNEMITEs linked together. They frequently appear when sunspots flare up.

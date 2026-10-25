@@ -1,0 +1,8 @@
+Name: Doduo
+Pokedex number: 84
+Types: normal, flying
+Height: 1.4 m
+Weight: 39.2 kg
+Abilities: run-away, early-bird, tangled-feet (hidden)
+Base stats: hp 35, attack 85, defense 45, special-attack 35, special-defense 35, speed 75
+Description: A bird that makes up for its poor flying with its fast foot speed. Leaves giant footprints.

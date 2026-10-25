@@ -1,0 +1,8 @@
+Name: Shellder
+Pokedex number: 90
+Types: water
+Height: 0.3 m
+Weight: 4.0 kg
+Abilities: shell-armor, skill-link, overcoat (hidden)
+Base stats: hp 30, attack 65, defense 100, special-attack 45, special-defense 25, speed 40
+Description: Its hard shell repels any kind of attack. It is vulnerable only when its shell is open.

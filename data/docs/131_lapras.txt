@@ -1,0 +1,8 @@
+Name: Lapras
+Pokedex number: 131
+Types: water, ice
+Height: 2.5 m
+Weight: 220.0 kg
+Abilities: water-absorb, shell-armor, hydration (hidden)
+Base stats: hp 130, attack 85, defense 80, special-attack 85, special-defense 95, speed 60
+Description: A POKéMON that has been over­ hunted almost to extinction. It can ferry people across the water.

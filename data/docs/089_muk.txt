@@ -1,0 +1,8 @@
+Name: Muk
+Pokedex number: 89
+Types: poison
+Height: 1.2 m
+Weight: 30.0 kg
+Abilities: stench, sticky-hold, poison-touch (hidden)
+Base stats: hp 105, attack 105, defense 75, special-attack 65, special-defense 100, speed 50
+Description: Thickly covered with a filthy, vile sludge. It is so toxic, even its footprints contain poison.

@@ -1,0 +1,8 @@
+Name: Goldeen
+Pokedex number: 118
+Types: water
+Height: 0.6 m
+Weight: 15.0 kg
+Abilities: swift-swim, water-veil, lightning-rod (hidden)
+Base stats: hp 45, attack 67, defense 60, special-attack 35, special-defense 50, speed 63
+Description: Its tail fin billows like an elegant ballroom dress, giving it the nickname of the Water Queen.

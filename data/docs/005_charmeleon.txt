@@ -1,0 +1,8 @@
+Name: Charmeleon
+Pokedex number: 5
+Types: fire
+Height: 1.1 m
+Weight: 19.0 kg
+Abilities: blaze, solar-power (hidden)
+Base stats: hp 58, attack 64, defense 58, special-attack 80, special-defense 65, speed 80
+Description: When it swings its burning tail, it elevates the temperature to unbearably high levels.

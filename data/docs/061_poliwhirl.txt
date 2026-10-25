@@ -1,0 +1,8 @@
+Name: Poliwhirl
+Pokedex number: 61
+Types: water
+Height: 1.0 m
+Weight: 20.0 kg
+Abilities: water-absorb, damp, swift-swim (hidden)
+Base stats: hp 65, attack 65, defense 65, special-attack 50, special-defense 50, speed 90
+Description: Capable of living in or out of water. When out of water, it sweats to keep its body slimy.

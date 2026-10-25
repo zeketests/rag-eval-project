@@ -1,0 +1,8 @@
+Name: Omastar
+Pokedex number: 139
+Types: rock, water
+Height: 1.0 m
+Weight: 35.0 kg
+Abilities: swift-swim, shell-armor, weak-armor (hidden)
+Base stats: hp 70, attack 60, defense 125, special-attack 115, special-defense 70, speed 55
+Description: A prehistoric POKéMON that died out when its heavy shell made it impossible to catch prey.

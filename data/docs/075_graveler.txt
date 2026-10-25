@@ -1,0 +1,8 @@
+Name: Graveler
+Pokedex number: 75
+Types: rock, ground
+Height: 1.0 m
+Weight: 105.0 kg
+Abilities: rock-head, sturdy, sand-veil (hidden)
+Base stats: hp 55, attack 95, defense 115, special-attack 45, special-defense 45, speed 35
+Description: Rolls down slopes to move. It rolls over any obstacle without slowing or changing its direction.

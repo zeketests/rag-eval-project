@@ -1,0 +1,8 @@
+Name: Paras
+Pokedex number: 46
+Types: bug, grass
+Height: 0.3 m
+Weight: 5.4 kg
+Abilities: effect-spore, dry-skin, damp (hidden)
+Base stats: hp 35, attack 70, defense 55, special-attack 45, special-defense 55, speed 25
+Description: Burrows to suck tree roots. The mushrooms on its back grow by draw­ ing nutrients from the bug host.

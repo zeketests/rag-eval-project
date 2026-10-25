@@ -1,0 +1,8 @@
+Name: Exeggcute
+Pokedex number: 102
+Types: grass, psychic
+Height: 0.4 m
+Weight: 2.5 kg
+Abilities: chlorophyll, harvest (hidden)
+Base stats: hp 60, attack 40, defense 80, special-attack 60, special-defense 45, speed 40
+Description: Often mistaken for eggs. When disturbed, they quickly gather and attack in swarms.

@@ -1,0 +1,8 @@
+Name: Gastly
+Pokedex number: 92
+Types: ghost, poison
+Height: 1.3 m
+Weight: 0.1 kg
+Abilities: levitate
+Base stats: hp 30, attack 35, defense 30, special-attack 100, special-defense 35, speed 80
+Description: Almost invisible, this gaseous POKéMON cloaks the target and puts it to sleep without notice.

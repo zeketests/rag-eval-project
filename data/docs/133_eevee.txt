@@ -1,0 +1,8 @@
+Name: Eevee
+Pokedex number: 133
+Types: normal
+Height: 0.3 m
+Weight: 6.5 kg
+Abilities: run-away, adaptability, anticipation (hidden)
+Base stats: hp 55, attack 55, defense 50, special-attack 45, special-defense 65, speed 55
+Description: Its genetic code is irregular. It may mutate if it is exposed to radiation from element STONEs.

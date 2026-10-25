@@ -1,0 +1,8 @@
+Name: Ekans
+Pokedex number: 23
+Types: poison
+Height: 2.0 m
+Weight: 6.9 kg
+Abilities: intimidate, shed-skin, unnerve (hidden)
+Base stats: hp 35, attack 60, defense 44, special-attack 40, special-defense 54, speed 55
+Description: Moves silently and stealthily. Eats the eggs of birds, such as PIDGEY and SPEAROW, whole.

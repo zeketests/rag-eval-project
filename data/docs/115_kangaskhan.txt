@@ -1,0 +1,8 @@
+Name: Kangaskhan
+Pokedex number: 115
+Types: normal
+Height: 2.2 m
+Weight: 80.0 kg
+Abilities: early-bird, scrappy, inner-focus (hidden)
+Base stats: hp 105, attack 95, defense 80, special-attack 40, special-defense 80, speed 90
+Description: The infant rarely ventures out of its mother's protective pouch until it is 3 years old.

@@ -1,0 +1,8 @@
+Name: Tentacruel
+Pokedex number: 73
+Types: water, poison
+Height: 1.6 m
+Weight: 55.0 kg
+Abilities: clear-body, liquid-ooze, rain-dish (hidden)
+Base stats: hp 80, attack 70, defense 65, special-attack 80, special-defense 120, speed 100
+Description: The tentacles are normally kept short. On hunts, they are extended to ensnare and immobilize prey.

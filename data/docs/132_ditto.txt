@@ -1,0 +1,8 @@
+Name: Ditto
+Pokedex number: 132
+Types: normal
+Height: 0.3 m
+Weight: 4.0 kg
+Abilities: limber, imposter (hidden)
+Base stats: hp 48, attack 48, defense 48, special-attack 48, special-defense 48, speed 48
+Description: Capable of copying an enemy's genetic code to instantly transform itself into a duplicate of the enemy.

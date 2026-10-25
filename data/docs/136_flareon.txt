@@ -1,0 +1,8 @@
+Name: Flareon
+Pokedex number: 136
+Types: fire
+Height: 0.9 m
+Weight: 25.0 kg
+Abilities: flash-fire, guts (hidden)
+Base stats: hp 65, attack 130, defense 60, special-attack 95, special-defense 110, speed 65
+Description: When storing thermal energy in its body, its temperature could soar to over 1600 degrees.

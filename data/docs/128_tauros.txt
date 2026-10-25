@@ -1,0 +1,8 @@
+Name: Tauros
+Pokedex number: 128
+Types: normal
+Height: 1.4 m
+Weight: 88.4 kg
+Abilities: intimidate, anger-point, sheer-force (hidden)
+Base stats: hp 75, attack 100, defense 95, special-attack 40, special-defense 70, speed 110
+Description: When it targets an enemy, it charges furiously while whipping its body with its long tails.

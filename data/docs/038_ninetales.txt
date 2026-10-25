@@ -1,0 +1,8 @@
+Name: Ninetales
+Pokedex number: 38
+Types: fire
+Height: 1.1 m
+Weight: 19.9 kg
+Abilities: flash-fire, drought (hidden)
+Base stats: hp 73, attack 76, defense 75, special-attack 81, special-defense 100, speed 100
+Description: Very smart and very vengeful. Grabbing one of its many tails could result in a 1000-year curse.

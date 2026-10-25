@@ -1,0 +1,8 @@
+Name: Dodrio
+Pokedex number: 85
+Types: normal, flying
+Height: 1.8 m
+Weight: 85.2 kg
+Abilities: run-away, early-bird, tangled-feet (hidden)
+Base stats: hp 60, attack 110, defense 70, special-attack 60, special-defense 60, speed 110
+Description: Uses its three brains to execute complex plans. While two heads sleep, one head stays awake.

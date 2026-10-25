@@ -1,0 +1,8 @@
+Name: Haunter
+Pokedex number: 93
+Types: ghost, poison
+Height: 1.6 m
+Weight: 0.1 kg
+Abilities: levitate
+Base stats: hp 45, attack 50, defense 45, special-attack 115, special-defense 55, speed 95
+Description: Because of its ability to slip through block walls, it is said to be from an­ other dimension.

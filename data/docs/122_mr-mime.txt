@@ -1,0 +1,8 @@
+Name: Mr-mime
+Pokedex number: 122
+Types: psychic, fairy
+Height: 1.3 m
+Weight: 54.5 kg
+Abilities: soundproof, filter, technician (hidden)
+Base stats: hp 40, attack 45, defense 65, special-attack 100, special-defense 120, speed 90
+Description: If interrupted while it is miming, it will slap around the offender with its broad hands.

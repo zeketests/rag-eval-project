@@ -1,0 +1,8 @@
+Name: Bulbasaur
+Pokedex number: 1
+Types: grass, poison
+Height: 0.7 m
+Weight: 6.9 kg
+Abilities: overgrow, chlorophyll (hidden)
+Base stats: hp 45, attack 49, defense 49, special-attack 65, special-defense 65, speed 45
+Description: A strange seed was planted on its back at birth. The plant sprouts and grows with this POKéMON.

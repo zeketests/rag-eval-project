@@ -1,0 +1,8 @@
+Name: Wartortle
+Pokedex number: 8
+Types: water
+Height: 1.0 m
+Weight: 22.5 kg
+Abilities: torrent, rain-dish (hidden)
+Base stats: hp 59, attack 63, defense 80, special-attack 65, special-defense 80, speed 58
+Description: Often hides in water to stalk unwary prey. For swimming fast, it moves its ears to maintain balance.

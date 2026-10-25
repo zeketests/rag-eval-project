@@ -1,0 +1,8 @@
+Name: Hitmonlee
+Pokedex number: 106
+Types: fighting
+Height: 1.5 m
+Weight: 49.8 kg
+Abilities: limber, reckless, unburden (hidden)
+Base stats: hp 50, attack 120, defense 53, special-attack 35, special-defense 110, speed 87
+Description: When in a hurry, its legs lengthen progressively. It runs smoothly with extra long, loping strides.

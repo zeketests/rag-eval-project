@@ -1,0 +1,8 @@
+Name: Voltorb
+Pokedex number: 100
+Types: electric
+Height: 0.5 m
+Weight: 10.4 kg
+Abilities: soundproof, static, aftermath (hidden)
+Base stats: hp 40, attack 30, defense 50, special-attack 55, special-defense 55, speed 100
+Description: Usually found in power plants. Easily mistaken for a POKé BALL, they have zapped many people.

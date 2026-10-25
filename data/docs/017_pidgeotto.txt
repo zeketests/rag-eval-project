@@ -1,0 +1,8 @@
+Name: Pidgeotto
+Pokedex number: 17
+Types: normal, flying
+Height: 1.1 m
+Weight: 30.0 kg
+Abilities: keen-eye, tangled-feet, big-pecks (hidden)
+Base stats: hp 63, attack 60, defense 55, special-attack 50, special-defense 50, speed 71
+Description: Very protective of its sprawling territorial area, this POKéMON will fiercely peck at any intruder.

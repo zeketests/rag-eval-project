@@ -1,0 +1,8 @@
+Name: Clefairy
+Pokedex number: 35
+Types: fairy
+Height: 0.6 m
+Weight: 7.5 kg
+Abilities: cute-charm, magic-guard, friend-guard (hidden)
+Base stats: hp 70, attack 45, defense 48, special-attack 60, special-defense 65, speed 35
+Description: Its magical and cute appeal has many admirers. It is rare and found only in certain areas.

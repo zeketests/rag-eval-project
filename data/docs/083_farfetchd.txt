@@ -1,0 +1,8 @@
+Name: Farfetchd
+Pokedex number: 83
+Types: normal, flying
+Height: 0.8 m
+Weight: 15.0 kg
+Abilities: keen-eye, inner-focus, defiant (hidden)
+Base stats: hp 52, attack 90, defense 55, special-attack 58, special-defense 62, speed 60
+Description: The sprig of green onions it holds is its weapon. It is used much like a metal sword.

@@ -1,0 +1,8 @@
+Name: Nidoking
+Pokedex number: 34
+Types: poison, ground
+Height: 1.4 m
+Weight: 62.0 kg
+Abilities: poison-point, rivalry, sheer-force (hidden)
+Base stats: hp 81, attack 102, defense 77, special-attack 85, special-defense 75, speed 85
+Description: It uses its powerful tail in battle to smash, constrict, then break the prey's bones.

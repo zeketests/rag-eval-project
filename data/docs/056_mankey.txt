@@ -1,0 +1,8 @@
+Name: Mankey
+Pokedex number: 56
+Types: fighting
+Height: 0.5 m
+Weight: 28.0 kg
+Abilities: vital-spirit, anger-point, defiant (hidden)
+Base stats: hp 40, attack 80, defense 35, special-attack 35, special-defense 45, speed 70
+Description: Extremely quick to anger. It could be docile one moment then thrashing away the next instant.

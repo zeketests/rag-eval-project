@@ -1,0 +1,8 @@
+Name: Fearow
+Pokedex number: 22
+Types: normal, flying
+Height: 1.2 m
+Weight: 38.0 kg
+Abilities: keen-eye, sniper (hidden)
+Base stats: hp 65, attack 90, defense 65, special-attack 61, special-defense 61, speed 100
+Description: With its huge and magnificent wings, it can keep aloft without ever having to land for rest.

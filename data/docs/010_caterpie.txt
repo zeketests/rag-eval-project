@@ -1,0 +1,8 @@
+Name: Caterpie
+Pokedex number: 10
+Types: bug
+Height: 0.3 m
+Weight: 2.9 kg
+Abilities: shield-dust, run-away (hidden)
+Base stats: hp 45, attack 30, defense 35, special-attack 20, special-defense 20, speed 45
+Description: Its short feet are tipped with suction pads that enable it to tirelessly climb slopes and walls.

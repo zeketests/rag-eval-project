@@ -1,0 +1,8 @@
+Name: Alakazam
+Pokedex number: 65
+Types: psychic
+Height: 1.5 m
+Weight: 48.0 kg
+Abilities: synchronize, inner-focus, magic-guard (hidden)
+Base stats: hp 55, attack 50, defense 45, special-attack 135, special-defense 95, speed 120
+Description: Its brain can out­ perform a super­ computer. Its intelligence quotient is said to be 5,000.

@@ -1,0 +1,8 @@
+Name: Omanyte
+Pokedex number: 138
+Types: rock, water
+Height: 0.4 m
+Weight: 7.5 kg
+Abilities: swift-swim, shell-armor, weak-armor (hidden)
+Base stats: hp 35, attack 40, defense 100, special-attack 90, special-defense 55, speed 35
+Description: Although long extinct, in rare cases, it can be genetically resurrected from fossils.

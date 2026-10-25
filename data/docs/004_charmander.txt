@@ -1,0 +1,8 @@
+Name: Charmander
+Pokedex number: 4
+Types: fire
+Height: 0.6 m
+Weight: 8.5 kg
+Abilities: blaze, solar-power (hidden)
+Base stats: hp 39, attack 52, defense 43, special-attack 60, special-defense 50, speed 65
+Description: Obviously prefers hot places. When it rains, steam is said to spout from the tip of its tail.

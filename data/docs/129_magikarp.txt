@@ -1,0 +1,8 @@
+Name: Magikarp
+Pokedex number: 129
+Types: water
+Height: 0.9 m
+Weight: 10.0 kg
+Abilities: swift-swim, rattled (hidden)
+Base stats: hp 20, attack 10, defense 55, special-attack 15, special-defense 20, speed 80
+Description: In the distant past, it was somewhat stronger than the horribly weak descendants that exist today.

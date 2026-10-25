@@ -1,0 +1,8 @@
+Name: Nidorina
+Pokedex number: 30
+Types: poison
+Height: 0.8 m
+Weight: 20.0 kg
+Abilities: poison-point, rivalry, hustle (hidden)
+Base stats: hp 70, attack 62, defense 67, special-attack 55, special-defense 55, speed 56
+Description: The female's horn develops slowly. Prefers physical attacks such as clawing and biting.

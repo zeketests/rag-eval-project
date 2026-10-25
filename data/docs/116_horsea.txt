@@ -1,0 +1,8 @@
+Name: Horsea
+Pokedex number: 116
+Types: water
+Height: 0.4 m
+Weight: 8.0 kg
+Abilities: swift-swim, sniper, damp (hidden)
+Base stats: hp 30, attack 40, defense 70, special-attack 70, special-defense 25, speed 60
+Description: Known to shoot down flying bugs with precision blasts of ink from the surface of the water.

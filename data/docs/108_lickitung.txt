@@ -1,0 +1,8 @@
+Name: Lickitung
+Pokedex number: 108
+Types: normal
+Height: 1.2 m
+Weight: 65.5 kg
+Abilities: own-tempo, oblivious, cloud-nine (hidden)
+Base stats: hp 90, attack 55, defense 75, special-attack 60, special-defense 75, speed 30
+Description: Its tongue can be extended like a chameleon's. It leaves a tingling sensation when it licks enemies.

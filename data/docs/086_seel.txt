@@ -1,0 +1,8 @@
+Name: Seel
+Pokedex number: 86
+Types: water
+Height: 1.1 m
+Weight: 90.0 kg
+Abilities: thick-fat, hydration, ice-body (hidden)
+Base stats: hp 65, attack 45, defense 55, special-attack 45, special-defense 70, speed 45
+Description: The protruding horn on its head is very hard. It is used for bashing through thick ice.

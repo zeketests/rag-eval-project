@@ -1,0 +1,8 @@
+Name: Jynx
+Pokedex number: 124
+Types: ice, psychic
+Height: 1.4 m
+Weight: 40.6 kg
+Abilities: oblivious, forewarn, dry-skin (hidden)
+Base stats: hp 65, attack 50, defense 35, special-attack 115, special-defense 95, speed 95
+Description: It seductively wiggles its hips as it walks. It can cause people to dance in unison with it.

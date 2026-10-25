@@ -1,0 +1,8 @@
+Name: Nidoran-m
+Pokedex number: 32
+Types: poison
+Height: 0.5 m
+Weight: 9.0 kg
+Abilities: poison-point, rivalry, hustle (hidden)
+Base stats: hp 46, attack 57, defense 40, special-attack 40, special-defense 40, speed 50
+Description: Stiffens its ears to sense danger. The larger its horns, the more powerful its secreted venom.

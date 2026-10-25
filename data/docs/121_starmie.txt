@@ -1,0 +1,8 @@
+Name: Starmie
+Pokedex number: 121
+Types: water, psychic
+Height: 1.1 m
+Weight: 80.0 kg
+Abilities: illuminate, natural-cure, analytic (hidden)
+Base stats: hp 60, attack 75, defense 85, special-attack 100, special-defense 85, speed 115
+Description: Its central core glows with the seven colors of the rainbow. Some people value the core as a gem.

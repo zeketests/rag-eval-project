@@ -1,0 +1,8 @@
+Name: Marowak
+Pokedex number: 105
+Types: ground
+Height: 1.0 m
+Weight: 45.0 kg
+Abilities: rock-head, lightning-rod, battle-armor (hidden)
+Base stats: hp 60, attack 80, defense 110, special-attack 50, special-defense 80, speed 45
+Description: The bone it holds is its key weapon. It throws the bone skillfully like a boomerang to KO targets.

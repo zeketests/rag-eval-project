@@ -1,0 +1,8 @@
+Name: Vulpix
+Pokedex number: 37
+Types: fire
+Height: 0.6 m
+Weight: 9.9 kg
+Abilities: flash-fire, drought (hidden)
+Base stats: hp 38, attack 41, defense 40, special-attack 50, special-defense 65, speed 65
+Description: At the time of birth, it has just one tail. The tail splits from its tip as it grows older.

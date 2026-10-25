@@ -1,0 +1,8 @@
+Name: Dratini
+Pokedex number: 147
+Types: dragon
+Height: 1.8 m
+Weight: 3.3 kg
+Abilities: shed-skin, marvel-scale (hidden)
+Base stats: hp 41, attack 64, defense 45, special-attack 50, special-defense 50, speed 50
+Description: Long considered a mythical POKéMON until recently when a small colony was found living underwater.

@@ -1,0 +1,8 @@
+Name: Kabuto
+Pokedex number: 140
+Types: rock, water
+Height: 0.5 m
+Weight: 11.5 kg
+Abilities: swift-swim, battle-armor, weak-armor (hidden)
+Base stats: hp 30, attack 80, defense 90, special-attack 55, special-defense 45, speed 55
+Description: A POKéMON that was resurrected from a fossil found in what was once the ocean floor eons ago.

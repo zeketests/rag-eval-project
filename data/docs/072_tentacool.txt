@@ -1,0 +1,8 @@
+Name: Tentacool
+Pokedex number: 72
+Types: water, poison
+Height: 0.9 m
+Weight: 45.5 kg
+Abilities: clear-body, liquid-ooze, rain-dish (hidden)
+Base stats: hp 40, attack 40, defense 35, special-attack 50, special-defense 100, speed 70
+Description: Drifts in shallow seas. Anglers who hook them by accident are often punished by its stinging acid.

@@ -1,0 +1,8 @@
+Name: Zapdos
+Pokedex number: 145
+Types: electric, flying
+Height: 1.6 m
+Weight: 52.6 kg
+Abilities: pressure, static (hidden)
+Base stats: hp 90, attack 90, defense 85, special-attack 125, special-defense 90, speed 100
+Description: A legendary bird POKéMON that is said to appear from clouds while dropping enormous lightning bolts.

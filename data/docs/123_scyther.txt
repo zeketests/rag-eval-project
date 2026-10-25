@@ -1,0 +1,8 @@
+Name: Scyther
+Pokedex number: 123
+Types: bug, flying
+Height: 1.5 m
+Weight: 56.0 kg
+Abilities: swarm, technician, steadfast (hidden)
+Base stats: hp 70, attack 110, defense 80, special-attack 55, special-defense 80, speed 105
+Description: With ninja-like agility and speed, it can create the illusion that there is more than one.

@@ -1,0 +1,8 @@
+Name: Golbat
+Pokedex number: 42
+Types: poison, flying
+Height: 1.6 m
+Weight: 55.0 kg
+Abilities: inner-focus, infiltrator (hidden)
+Base stats: hp 75, attack 80, defense 70, special-attack 65, special-defense 75, speed 90
+Description: Once it strikes, it will not stop draining energy from the victim even if it gets too heavy to fly.

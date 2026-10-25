@@ -1,0 +1,8 @@
+Name: Nidorino
+Pokedex number: 33
+Types: poison
+Height: 0.9 m
+Weight: 19.5 kg
+Abilities: poison-point, rivalry, hustle (hidden)
+Base stats: hp 61, attack 72, defense 57, special-attack 55, special-defense 55, speed 65
+Description: An aggressive POKéMON that is quick to attack. The horn on its head secretes a powerful venom.

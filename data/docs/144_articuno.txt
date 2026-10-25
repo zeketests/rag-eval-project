@@ -1,0 +1,8 @@
+Name: Articuno
+Pokedex number: 144
+Types: ice, flying
+Height: 1.7 m
+Weight: 55.4 kg
+Abilities: pressure, snow-cloak (hidden)
+Base stats: hp 90, attack 85, defense 100, special-attack 95, special-defense 125, speed 85
+Description: A legendary bird POKéMON that is said to appear to doomed people who are lost in icy mountains.

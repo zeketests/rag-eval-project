@@ -1,0 +1,8 @@
+Name: Blastoise
+Pokedex number: 9
+Types: water
+Height: 1.6 m
+Weight: 85.5 kg
+Abilities: torrent, rain-dish (hidden)
+Base stats: hp 79, attack 83, defense 100, special-attack 85, special-defense 105, speed 78
+Description: A brutal POKéMON with pressurized water jets on its shell. They are used for high speed tackles.

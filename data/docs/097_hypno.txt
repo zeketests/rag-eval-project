@@ -1,0 +1,8 @@
+Name: Hypno
+Pokedex number: 97
+Types: psychic
+Height: 1.6 m
+Weight: 75.6 kg
+Abilities: insomnia, forewarn, inner-focus (hidden)
+Base stats: hp 85, attack 73, defense 70, special-attack 73, special-defense 115, speed 67
+Description: When it locks eyes with an enemy, it will use a mix of PSI moves such as HYPNOSIS and CONFUSION.

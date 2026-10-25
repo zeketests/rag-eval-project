@@ -1,0 +1,8 @@
+Name: Spearow
+Pokedex number: 21
+Types: normal, flying
+Height: 0.3 m
+Weight: 2.0 kg
+Abilities: keen-eye, sniper (hidden)
+Base stats: hp 40, attack 60, defense 30, special-attack 31, special-defense 31, speed 70
+Description: Eats bugs in grassy areas. It has to flap its short wings at high speed to stay airborne.

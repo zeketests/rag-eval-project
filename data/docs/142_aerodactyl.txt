@@ -1,0 +1,8 @@
+Name: Aerodactyl
+Pokedex number: 142
+Types: rock, flying
+Height: 1.8 m
+Weight: 59.0 kg
+Abilities: rock-head, pressure, unnerve (hidden)
+Base stats: hp 80, attack 105, defense 65, special-attack 60, special-defense 75, speed 130
+Description: A ferocious, pre­ historic POKéMON that goes for the enemy's throat with its serrated saw-like fangs.

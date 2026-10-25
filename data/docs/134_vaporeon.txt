@@ -1,0 +1,8 @@
+Name: Vaporeon
+Pokedex number: 134
+Types: water
+Height: 1.0 m
+Weight: 29.0 kg
+Abilities: water-absorb, hydration (hidden)
+Base stats: hp 130, attack 65, defense 60, special-attack 110, special-defense 95, speed 65
+Description: Lives close to water. Its long tail is ridged with a fin which is often mistaken for a mermaid's.

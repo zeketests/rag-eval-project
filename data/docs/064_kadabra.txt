@@ -1,0 +1,8 @@
+Name: Kadabra
+Pokedex number: 64
+Types: psychic
+Height: 1.3 m
+Weight: 56.5 kg
+Abilities: synchronize, inner-focus, magic-guard (hidden)
+Base stats: hp 40, attack 35, defense 30, special-attack 120, special-defense 70, speed 105
+Description: It emits special alpha waves from its body that induce headaches just by being close by.

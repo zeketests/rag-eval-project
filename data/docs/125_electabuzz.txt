@@ -1,0 +1,8 @@
+Name: Electabuzz
+Pokedex number: 125
+Types: electric
+Height: 1.1 m
+Weight: 30.0 kg
+Abilities: static, vital-spirit (hidden)
+Base stats: hp 65, attack 83, defense 57, special-attack 95, special-defense 85, speed 105
+Description: Normally found near power plants, they can wander away and cause major blackouts in cities.

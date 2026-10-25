@@ -1,0 +1,8 @@
+Name: Poliwag
+Pokedex number: 60
+Types: water
+Height: 0.6 m
+Weight: 12.4 kg
+Abilities: water-absorb, damp, swift-swim (hidden)
+Base stats: hp 40, attack 50, defense 40, special-attack 40, special-defense 40, speed 90
+Description: Its newly grown legs prevent it from running. It appears to prefer swimming than trying to stand.

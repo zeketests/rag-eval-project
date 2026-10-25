@@ -1,0 +1,8 @@
+Name: Exeggutor
+Pokedex number: 103
+Types: grass, psychic
+Height: 2.0 m
+Weight: 120.0 kg
+Abilities: chlorophyll, harvest (hidden)
+Base stats: hp 95, attack 95, defense 85, special-attack 125, special-defense 75, speed 55
+Description: Legend has it that on rare occasions, one of its heads will drop off and continue on as an EXEGGCUTE.

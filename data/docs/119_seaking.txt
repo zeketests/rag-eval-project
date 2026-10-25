@@ -1,0 +1,8 @@
+Name: Seaking
+Pokedex number: 119
+Types: water
+Height: 1.3 m
+Weight: 39.0 kg
+Abilities: swift-swim, water-veil, lightning-rod (hidden)
+Base stats: hp 80, attack 92, defense 65, special-attack 65, special-defense 80, speed 68
+Description: In the autumn spawning season, they can be seen swimming power­ fully up rivers and creeks.

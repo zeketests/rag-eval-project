@@ -1,0 +1,8 @@
+Name: Rhyhorn
+Pokedex number: 111
+Types: ground, rock
+Height: 1.0 m
+Weight: 115.0 kg
+Abilities: lightning-rod, rock-head, reckless (hidden)
+Base stats: hp 80, attack 85, defense 95, special-attack 30, special-defense 30, speed 25
+Description: Its massive bones are 1000 times harder than human bones. It can easily knock a trailer flying.

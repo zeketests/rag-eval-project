@@ -1,0 +1,8 @@
+Name: Machamp
+Pokedex number: 68
+Types: fighting
+Height: 1.6 m
+Weight: 130.0 kg
+Abilities: guts, no-guard, steadfast (hidden)
+Base stats: hp 90, attack 130, defense 80, special-attack 65, special-defense 85, speed 55
+Description: Using its heavy muscles, it throws powerful punches that can send the victim clear over the horizon.

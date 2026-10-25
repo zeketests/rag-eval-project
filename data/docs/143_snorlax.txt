@@ -1,0 +1,8 @@
+Name: Snorlax
+Pokedex number: 143
+Types: normal
+Height: 2.1 m
+Weight: 460.0 kg
+Abilities: immunity, thick-fat, gluttony (hidden)
+Base stats: hp 160, attack 110, defense 65, special-attack 65, special-defense 110, speed 30
+Description: Very lazy. Just eats and sleeps. As its rotund bulk builds, it becomes steadily more slothful.

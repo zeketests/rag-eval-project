@@ -1,0 +1,8 @@
+Name: Primeape
+Pokedex number: 57
+Types: fighting
+Height: 1.0 m
+Weight: 32.0 kg
+Abilities: vital-spirit, anger-point, defiant (hidden)
+Base stats: hp 65, attack 105, defense 60, special-attack 60, special-defense 70, speed 95
+Description: Always furious and tenacious to boot. It will not abandon chasing its quarry until it is caught.

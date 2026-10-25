@@ -1,0 +1,8 @@
+Name: Psyduck
+Pokedex number: 54
+Types: water
+Height: 0.8 m
+Weight: 19.6 kg
+Abilities: damp, cloud-nine, swift-swim (hidden)
+Base stats: hp 50, attack 52, defense 48, special-attack 65, special-defense 50, speed 55
+Description: While lulling its enemies with its vacant look, this wily POKéMON will use psychokinetic powers.

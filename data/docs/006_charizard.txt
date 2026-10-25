@@ -1,0 +1,8 @@
+Name: Charizard
+Pokedex number: 6
+Types: fire, flying
+Height: 1.7 m
+Weight: 90.5 kg
+Abilities: blaze, solar-power (hidden)
+Base stats: hp 78, attack 84, defense 78, special-attack 109, special-defense 85, speed 100
+Description: Spits fire that is hot enough to melt boulders. Known to cause forest fires unintentionally.

@@ -1,0 +1,8 @@
+Name: Seadra
+Pokedex number: 117
+Types: water
+Height: 1.2 m
+Weight: 25.0 kg
+Abilities: poison-point, sniper, damp (hidden)
+Base stats: hp 55, attack 65, defense 95, special-attack 95, special-defense 45, speed 85
+Description: Capable of swim­ ming backwards by rapidly flapping its wing-like pectoral fins and stout tail.

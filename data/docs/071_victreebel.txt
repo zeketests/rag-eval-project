@@ -1,0 +1,8 @@
+Name: Victreebel
+Pokedex number: 71
+Types: grass, poison
+Height: 1.7 m
+Weight: 15.5 kg
+Abilities: chlorophyll, gluttony (hidden)
+Base stats: hp 80, attack 105, defense 65, special-attack 100, special-defense 70, speed 70
+Description: Said to live in huge colonies deep in jungles, although no one has ever returned from there.

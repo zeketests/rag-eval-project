@@ -1,0 +1,8 @@
+Name: Geodude
+Pokedex number: 74
+Types: rock, ground
+Height: 0.4 m
+Weight: 20.0 kg
+Abilities: rock-head, sturdy, sand-veil (hidden)
+Base stats: hp 40, attack 80, defense 100, special-attack 30, special-defense 30, speed 20
+Description: Found in fields and mountains. Mistaking them for boulders, people often step or trip on them.

@@ -1,0 +1,8 @@
+Name: Dugtrio
+Pokedex number: 51
+Types: ground
+Height: 0.7 m
+Weight: 33.3 kg
+Abilities: sand-veil, arena-trap, sand-force (hidden)
+Base stats: hp 35, attack 100, defense 50, special-attack 50, special-defense 70, speed 120
+Description: A team of DIGLETT triplets. It triggers huge earthquakes by burrowing 60 miles underground.

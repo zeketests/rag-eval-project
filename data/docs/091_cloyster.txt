@@ -1,0 +1,8 @@
+Name: Cloyster
+Pokedex number: 91
+Types: water, ice
+Height: 1.5 m
+Weight: 132.5 kg
+Abilities: shell-armor, skill-link, overcoat (hidden)
+Base stats: hp 50, attack 95, defense 180, special-attack 85, special-defense 45, speed 70
+Description: When attacked, it launches its horns in quick volleys. Its innards have never been seen.

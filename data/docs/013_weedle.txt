@@ -1,0 +1,8 @@
+Name: Weedle
+Pokedex number: 13
+Types: bug, poison
+Height: 0.3 m
+Weight: 3.2 kg
+Abilities: shield-dust, run-away (hidden)
+Base stats: hp 40, attack 35, defense 30, special-attack 20, special-defense 20, speed 50
+Description: Often found in forests, eating leaves. It has a sharp venomous stinger on its head.

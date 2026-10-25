@@ -1,0 +1,8 @@
+Name: Electrode
+Pokedex number: 101
+Types: electric
+Height: 1.2 m
+Weight: 66.6 kg
+Abilities: soundproof, static, aftermath (hidden)
+Base stats: hp 60, attack 50, defense 70, special-attack 80, special-defense 80, speed 150
+Description: It stores electric energy under very high pressure. It often explodes with little or no provocation.

@@ -1,0 +1,8 @@
+Name: Magnemite
+Pokedex number: 81
+Types: electric, steel
+Height: 0.3 m
+Weight: 6.0 kg
+Abilities: magnet-pull, sturdy, analytic (hidden)
+Base stats: hp 25, attack 35, defense 70, special-attack 95, special-defense 55, speed 45
+Description: Uses anti-gravity to stay suspended. Appears without warning and uses THUNDER WAVE and similar moves.

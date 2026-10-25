@@ -1,0 +1,8 @@
+Name: Arbok
+Pokedex number: 24
+Types: poison
+Height: 3.5 m
+Weight: 65.0 kg
+Abilities: intimidate, shed-skin, unnerve (hidden)
+Base stats: hp 60, attack 95, defense 69, special-attack 65, special-defense 79, speed 80
+Description: It is rumored that the ferocious warning markings on its belly differ from area to area.

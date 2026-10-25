@@ -1,0 +1,8 @@
+Name: Venomoth
+Pokedex number: 49
+Types: bug, poison
+Height: 1.5 m
+Weight: 12.5 kg
+Abilities: shield-dust, tinted-lens, wonder-skin (hidden)
+Base stats: hp 70, attack 65, defense 60, special-attack 90, special-defense 75, speed 90
+Description: The dust-like scales covering its wings are color coded to indicate the kinds of poison it has.

@@ -1,0 +1,8 @@
+Name: Weezing
+Pokedex number: 110
+Types: poison
+Height: 1.2 m
+Weight: 9.5 kg
+Abilities: levitate, neutralizing-gas, stench (hidden)
+Base stats: hp 65, attack 90, defense 120, special-attack 85, special-defense 70, speed 60
+Description: Where two kinds of poison gases meet, 2 KOFFINGs can fuse into a WEEZING over many years.

@@ -1,0 +1,8 @@
+Name: Kabutops
+Pokedex number: 141
+Types: rock, water
+Height: 1.3 m
+Weight: 40.5 kg
+Abilities: swift-swim, battle-armor, weak-armor (hidden)
+Base stats: hp 60, attack 115, defense 105, special-attack 65, special-defense 70, speed 80
+Description: Its sleek shape is perfect for swim­ ming. It slashes prey with its claws and drains the body fluids.

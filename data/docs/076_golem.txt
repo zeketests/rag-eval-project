@@ -1,0 +1,8 @@
+Name: Golem
+Pokedex number: 76
+Types: rock, ground
+Height: 1.4 m
+Weight: 300.0 kg
+Abilities: rock-head, sturdy, sand-veil (hidden)
+Base stats: hp 80, attack 120, defense 130, special-attack 55, special-defense 65, speed 45
+Description: Its boulder-like body is extremely hard. It can easily withstand dynamite blasts without damage.

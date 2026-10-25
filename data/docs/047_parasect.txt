@@ -1,0 +1,8 @@
+Name: Parasect
+Pokedex number: 47
+Types: bug, grass
+Height: 1.0 m
+Weight: 29.5 kg
+Abilities: effect-spore, dry-skin, damp (hidden)
+Base stats: hp 60, attack 95, defense 80, special-attack 60, special-defense 80, speed 30
+Description: A host-parasite pair in which the parasite mushroom has taken over the host bug. Prefers damp places.

@@ -1,0 +1,8 @@
+Name: Koffing
+Pokedex number: 109
+Types: poison
+Height: 0.6 m
+Weight: 1.0 kg
+Abilities: levitate, neutralizing-gas, stench (hidden)
+Base stats: hp 40, attack 65, defense 95, special-attack 60, special-defense 45, speed 35
+Description: Because it stores several kinds of toxic gases in its body, it is prone to exploding without warning.

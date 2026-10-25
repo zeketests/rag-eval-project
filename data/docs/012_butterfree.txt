@@ -1,0 +1,8 @@
+Name: Butterfree
+Pokedex number: 12
+Types: bug, flying
+Height: 1.1 m
+Weight: 32.0 kg
+Abilities: compound-eyes, tinted-lens (hidden)
+Base stats: hp 60, attack 45, defense 50, special-attack 90, special-defense 80, speed 70
+Description: In battle, it flaps its wings at high speed to release highly toxic dust into the air.

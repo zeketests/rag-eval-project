@@ -1,0 +1,8 @@
+Name: Weepinbell
+Pokedex number: 70
+Types: grass, poison
+Height: 1.0 m
+Weight: 6.4 kg
+Abilities: chlorophyll, gluttony (hidden)
+Base stats: hp 65, attack 90, defense 50, special-attack 85, special-defense 45, speed 55
+Description: It spits out POISONPOWDER to immobilize the enemy and then finishes it with a spray of ACID.

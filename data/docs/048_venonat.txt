@@ -1,0 +1,8 @@
+Name: Venonat
+Pokedex number: 48
+Types: bug, poison
+Height: 1.0 m
+Weight: 30.0 kg
+Abilities: compound-eyes, tinted-lens, run-away (hidden)
+Base stats: hp 60, attack 55, defense 50, special-attack 40, special-defense 55, speed 45
+Description: Lives in the shadows of tall trees where it eats insects. It is attracted by light at night.

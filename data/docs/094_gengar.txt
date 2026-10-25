@@ -1,0 +1,8 @@
+Name: Gengar
+Pokedex number: 94
+Types: ghost, poison
+Height: 1.5 m
+Weight: 40.5 kg
+Abilities: cursed-body
+Base stats: hp 60, attack 65, defense 60, special-attack 130, special-defense 75, speed 110
+Description: Under a full moon, this POKéMON likes to mimic the shadows of people and laugh at their fright.

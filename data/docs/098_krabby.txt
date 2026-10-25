@@ -1,0 +1,8 @@
+Name: Krabby
+Pokedex number: 98
+Types: water
+Height: 0.4 m
+Weight: 6.5 kg
+Abilities: hyper-cutter, shell-armor, sheer-force (hidden)
+Base stats: hp 30, attack 105, defense 90, special-attack 25, special-defense 25, speed 50
+Description: Its pincers are not only powerful weapons, they are used for balance when walking sideways.

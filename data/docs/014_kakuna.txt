@@ -1,0 +1,8 @@
+Name: Kakuna
+Pokedex number: 14
+Types: bug, poison
+Height: 0.6 m
+Weight: 10.0 kg
+Abilities: shed-skin
+Base stats: hp 45, attack 25, defense 50, special-attack 25, special-defense 25, speed 35
+Description: Almost incapable of moving, this POKéMON can only harden its shell to protect itself from predators.

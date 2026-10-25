@@ -1,0 +1,8 @@
+Name: Pidgeot
+Pokedex number: 18
+Types: normal, flying
+Height: 1.5 m
+Weight: 39.5 kg
+Abilities: keen-eye, tangled-feet, big-pecks (hidden)
+Base stats: hp 83, attack 80, defense 75, special-attack 70, special-defense 70, speed 101
+Description: When hunting, it skims the surface of water at high speed to pick off unwary prey such as MAGIKARP.

@@ -1,0 +1,8 @@
+Name: Pinsir
+Pokedex number: 127
+Types: bug
+Height: 1.5 m
+Weight: 55.0 kg
+Abilities: hyper-cutter, mold-breaker, moxie (hidden)
+Base stats: hp 65, attack 125, defense 100, special-attack 55, special-defense 70, speed 85
+Description: If it fails to crush the victim in its pincers, it will swing it around and toss it hard.

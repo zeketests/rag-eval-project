@@ -1,0 +1,8 @@
+Name: Slowpoke
+Pokedex number: 79
+Types: water, psychic
+Height: 1.2 m
+Weight: 36.0 kg
+Abilities: oblivious, own-tempo, regenerator (hidden)
+Base stats: hp 90, attack 65, defense 65, special-attack 40, special-defense 40, speed 15
+Description: Incredibly slow and dopey. It takes 5 seconds for it to feel pain when under attack.

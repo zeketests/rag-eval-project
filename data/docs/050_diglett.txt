@@ -1,0 +1,8 @@
+Name: Diglett
+Pokedex number: 50
+Types: ground
+Height: 0.2 m
+Weight: 0.8 kg
+Abilities: sand-veil, arena-trap, sand-force (hidden)
+Base stats: hp 10, attack 55, defense 25, special-attack 35, special-defense 45, speed 95
+Description: Lives about one yard underground where it feeds on plant roots. It sometimes appears above ground.
