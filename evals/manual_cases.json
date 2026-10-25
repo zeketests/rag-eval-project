@@ -1,0 +1,72 @@
+[
+  {
+    "id": "manual_001",
+    "category": "comparison",
+    "question": "Which is heavier, Snorlax or Onix?",
+    "expected_answer": "Snorlax",
+    "expected_sources": ["143_snorlax.txt", "095_onix.txt"]
+  },
+  {
+    "id": "manual_002",
+    "category": "comparison",
+    "question": "Which is taller, Onix or Gyarados?",
+    "expected_answer": "Onix",
+    "expected_sources": ["095_onix.txt", "130_gyarados.txt"]
+  },
+  {
+    "id": "manual_003",
+    "category": "multi_fact",
+    "question": "What are Mewtwo's types and base HP?",
+    "expected_answer": "psychic, base HP 106",
+    "expected_sources": ["150_mewtwo.txt"]
+  },
+  {
+    "id": "manual_004",
+    "category": "typo",
+    "question": "wat type is charmandr",
+    "expected_answer": "fire",
+    "expected_sources": ["004_charmander.txt"]
+  },
+  {
+    "id": "manual_005",
+    "category": "paraphrase",
+    "question": "Is Gengar a ghost Pokemon?",
+    "expected_answer": "Yes, Gengar is ghost and poison type",
+    "expected_sources": ["094_gengar.txt"]
+  },
+  {
+    "id": "manual_006",
+    "category": "unanswerable",
+    "question": "What type is Togepi?",
+    "expected_answer": "I don't know.",
+    "expected_sources": []
+  },
+  {
+    "id": "manual_007",
+    "category": "memory_trap",
+    "question": "What does Pikachu evolve into?",
+    "expected_answer": "I don't know.",
+    "expected_sources": []
+  },
+  {
+    "id": "manual_008",
+    "category": "memory_trap",
+    "question": "What moves can Charizard learn?",
+    "expected_answer": "I don't know.",
+    "expected_sources": []
+  },
+  {
+    "id": "manual_009",
+    "category": "memory_trap",
+    "question": "Which Pokemon is a red lizard with big eyes?",
+    "expected_answer": "I don't know.",
+    "expected_sources":[]
+  },
+  {
+  "id": "manual_010",
+  "category": "description_lookup",
+  "question": "Which Pokemon has steam coming out of its tail when it rains?",
+  "expected_answer": "Charmander",
+  "expected_sources": ["004_charmander.txt"]
+  }
+]

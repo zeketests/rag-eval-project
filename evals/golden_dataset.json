@@ -1,0 +1,362 @@
+[
+  {
+    "id": "auto_001",
+    "category": "single_fact",
+    "question": "How tall is Nidoran-f?",
+    "expected_answer": "0.4 m",
+    "expected_sources": [
+      "029_nidoran-f.txt"
+    ]
+  },
+  {
+    "id": "auto_002",
+    "category": "single_fact",
+    "question": "What type is Squirtle?",
+    "expected_answer": "water",
+    "expected_sources": [
+      "007_squirtle.txt"
+    ]
+  },
+  {
+    "id": "auto_003",
+    "category": "single_fact",
+    "question": "What abilities does Victreebel have?",
+    "expected_answer": "chlorophyll, gluttony",
+    "expected_sources": [
+      "071_victreebel.txt"
+    ]
+  },
+  {
+    "id": "auto_004",
+    "category": "single_fact",
+    "question": "What is Abra's Pokedex number?",
+    "expected_answer": "63",
+    "expected_sources": [
+      "063_abra.txt"
+    ]
+  },
+  {
+    "id": "auto_005",
+    "category": "single_fact",
+    "question": "What type is Growlithe?",
+    "expected_answer": "fire",
+    "expected_sources": [
+      "058_growlithe.txt"
+    ]
+  },
+  {
+    "id": "auto_006",
+    "category": "single_fact",
+    "question": "What abilities does Clefable have?",
+    "expected_answer": "cute-charm, magic-guard, unaware",
+    "expected_sources": [
+      "036_clefable.txt"
+    ]
+  },
+  {
+    "id": "auto_007",
+    "category": "single_fact",
+    "question": "What type is Sandshrew?",
+    "expected_answer": "ground",
+    "expected_sources": [
+      "027_sandshrew.txt"
+    ]
+  },
+  {
+    "id": "auto_008",
+    "category": "single_fact",
+    "question": "What is Kabuto's Pokedex number?",
+    "expected_answer": "140",
+    "expected_sources": [
+      "140_kabuto.txt"
+    ]
+  },
+  {
+    "id": "auto_009",
+    "category": "single_fact",
+    "question": "How tall is Ekans?",
+    "expected_answer": "2.0 m",
+    "expected_sources": [
+      "023_ekans.txt"
+    ]
+  },
+  {
+    "id": "auto_010",
+    "category": "single_fact",
+    "question": "What is Koffing's Pokedex number?",
+    "expected_answer": "109",
+    "expected_sources": [
+      "109_koffing.txt"
+    ]
+  },
+  {
+    "id": "auto_011",
+    "category": "single_fact",
+    "question": "How tall is Blastoise?",
+    "expected_answer": "1.6 m",
+    "expected_sources": [
+      "009_blastoise.txt"
+    ]
+  },
+  {
+    "id": "auto_012",
+    "category": "single_fact",
+    "question": "What is Wartortle's Pokedex number?",
+    "expected_answer": "8",
+    "expected_sources": [
+      "008_wartortle.txt"
+    ]
+  },
+  {
+    "id": "auto_013",
+    "category": "single_fact",
+    "question": "How much does Arbok weigh?",
+    "expected_answer": "65.0 kg",
+    "expected_sources": [
+      "024_arbok.txt"
+    ]
+  },
+  {
+    "id": "auto_014",
+    "category": "single_fact",
+    "question": "What type is Mankey?",
+    "expected_answer": "fighting",
+    "expected_sources": [
+      "056_mankey.txt"
+    ]
+  },
+  {
+    "id": "auto_015",
+    "category": "single_fact",
+    "question": "What type is Poliwag?",
+    "expected_answer": "water",
+    "expected_sources": [
+      "060_poliwag.txt"
+    ]
+  },
+  {
+    "id": "auto_016",
+    "category": "single_fact",
+    "question": "How much does Gyarados weigh?",
+    "expected_answer": "235.0 kg",
+    "expected_sources": [
+      "130_gyarados.txt"
+    ]
+  },
+  {
+    "id": "auto_017",
+    "category": "single_fact",
+    "question": "How tall is Mewtwo?",
+    "expected_answer": "2.0 m",
+    "expected_sources": [
+      "150_mewtwo.txt"
+    ]
+  },
+  {
+    "id": "auto_018",
+    "category": "single_fact",
+    "question": "What type is Dugtrio?",
+    "expected_answer": "ground",
+    "expected_sources": [
+      "051_dugtrio.txt"
+    ]
+  },
+  {
+    "id": "auto_019",
+    "category": "single_fact",
+    "question": "How much does Lickitung weigh?",
+    "expected_answer": "65.5 kg",
+    "expected_sources": [
+      "108_lickitung.txt"
+    ]
+  },
+  {
+    "id": "auto_020",
+    "category": "single_fact",
+    "question": "What type is Primeape?",
+    "expected_answer": "fighting",
+    "expected_sources": [
+      "057_primeape.txt"
+    ]
+  },
+  {
+    "id": "auto_021",
+    "category": "single_fact",
+    "question": "What abilities does Kangaskhan have?",
+    "expected_answer": "early-bird, scrappy, inner-focus",
+    "expected_sources": [
+      "115_kangaskhan.txt"
+    ]
+  },
+  {
+    "id": "auto_022",
+    "category": "single_fact",
+    "question": "How tall is Tentacool?",
+    "expected_answer": "0.9 m",
+    "expected_sources": [
+      "072_tentacool.txt"
+    ]
+  },
+  {
+    "id": "auto_023",
+    "category": "single_fact",
+    "question": "What abilities does Ivysaur have?",
+    "expected_answer": "overgrow, chlorophyll",
+    "expected_sources": [
+      "002_ivysaur.txt"
+    ]
+  },
+  {
+    "id": "auto_024",
+    "category": "single_fact",
+    "question": "How tall is Zubat?",
+    "expected_answer": "0.8 m",
+    "expected_sources": [
+      "041_zubat.txt"
+    ]
+  },
+  {
+    "id": "auto_025",
+    "category": "single_fact",
+    "question": "How much does Shellder weigh?",
+    "expected_answer": "4.0 kg",
+    "expected_sources": [
+      "090_shellder.txt"
+    ]
+  },
+  {
+    "id": "auto_026",
+    "category": "single_fact",
+    "question": "How tall is Golduck?",
+    "expected_answer": "1.7 m",
+    "expected_sources": [
+      "055_golduck.txt"
+    ]
+  },
+  {
+    "id": "auto_027",
+    "category": "single_fact",
+    "question": "How tall is Gloom?",
+    "expected_answer": "0.8 m",
+    "expected_sources": [
+      "044_gloom.txt"
+    ]
+  },
+  {
+    "id": "auto_028",
+    "category": "single_fact",
+    "question": "How much does Moltres weigh?",
+    "expected_answer": "60.0 kg",
+    "expected_sources": [
+      "146_moltres.txt"
+    ]
+  },
+  {
+    "id": "auto_029",
+    "category": "single_fact",
+    "question": "How tall is Raticate?",
+    "expected_answer": "0.7 m",
+    "expected_sources": [
+      "020_raticate.txt"
+    ]
+  },
+  {
+    "id": "auto_030",
+    "category": "single_fact",
+    "question": "What type is Sandslash?",
+    "expected_answer": "ground",
+    "expected_sources": [
+      "028_sandslash.txt"
+    ]
+  },
+  {
+    "id": "auto_031",
+    "category": "single_fact",
+    "question": "What is Krabby's Pokedex number?",
+    "expected_answer": "98",
+    "expected_sources": [
+      "098_krabby.txt"
+    ]
+  },
+  {
+    "id": "auto_032",
+    "category": "single_fact",
+    "question": "How much does Electabuzz weigh?",
+    "expected_answer": "30.0 kg",
+    "expected_sources": [
+      "125_electabuzz.txt"
+    ]
+  },
+  {
+    "id": "auto_033",
+    "category": "single_fact",
+    "question": "What is Kakuna's Pokedex number?",
+    "expected_answer": "14",
+    "expected_sources": [
+      "014_kakuna.txt"
+    ]
+  },
+  {
+    "id": "auto_034",
+    "category": "single_fact",
+    "question": "How much does Butterfree weigh?",
+    "expected_answer": "32.0 kg",
+    "expected_sources": [
+      "012_butterfree.txt"
+    ]
+  },
+  {
+    "id": "auto_035",
+    "category": "single_fact",
+    "question": "How much does Venomoth weigh?",
+    "expected_answer": "12.5 kg",
+    "expected_sources": [
+      "049_venomoth.txt"
+    ]
+  },
+  {
+    "id": "auto_036",
+    "category": "single_fact",
+    "question": "What abilities does Weedle have?",
+    "expected_answer": "shield-dust, run-away",
+    "expected_sources": [
+      "013_weedle.txt"
+    ]
+  },
+  {
+    "id": "auto_037",
+    "category": "single_fact",
+    "question": "What abilities does Paras have?",
+    "expected_answer": "effect-spore, dry-skin, damp",
+    "expected_sources": [
+      "046_paras.txt"
+    ]
+  },
+  {
+    "id": "auto_038",
+    "category": "single_fact",
+    "question": "How tall is Aerodactyl?",
+    "expected_answer": "1.8 m",
+    "expected_sources": [
+      "142_aerodactyl.txt"
+    ]
+  },
+  {
+    "id": "auto_039",
+    "category": "single_fact",
+    "question": "What is Vileplume's Pokedex number?",
+    "expected_answer": "45",
+    "expected_sources": [
+      "045_vileplume.txt"
+    ]
+  },
+  {
+    "id": "auto_040",
+    "category": "single_fact",
+    "question": "How much does Rapidash weigh?",
+    "expected_answer": "95.0 kg",
+    "expected_sources": [
+      "078_rapidash.txt"
+    ]
+  }
+]

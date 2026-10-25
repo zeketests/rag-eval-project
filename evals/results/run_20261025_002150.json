@@ -1,0 +1,646 @@
+[
+  {
+    "id": "auto_001",
+    "category": "single_fact",
+    "question": "How tall is Nidoran-f?",
+    "expected_answer": "0.4 m",
+    "expected_sources": [
+      "029_nidoran-f.txt"
+    ],
+    "answer": "0.4 m",
+    "retrieval_hit": true,
+    "label": "correct",
+    "judge_reason": "Exact match after normalization (rule-based)."
+  },
+  {
+    "id": "auto_002",
+    "category": "single_fact",
+    "question": "What type is Squirtle?",
+    "expected_answer": "water",
+    "expected_sources": [
+      "007_squirtle.txt"
+    ],
+    "answer": "Water.",
+    "retrieval_hit": true,
+    "label": "correct",
+    "judge_reason": "Exact match after normalization (rule-based)."
+  },
+  {
+    "id": "auto_003",
+    "category": "single_fact",
+    "question": "What abilities does Victreebel have?",
+    "expected_answer": "chlorophyll, gluttony",
+    "expected_sources": [
+      "071_victreebel.txt"
+    ],
+    "answer": "Chlorophyll, gluttony (hidden).",
+    "retrieval_hit": true,
+    "label": "correct",
+    "judge_reason": "Contains all expected information."
+  },
+  {
+    "id": "auto_004",
+    "category": "single_fact",
+    "question": "What is Abra's Pokedex number?",
+    "expected_answer": "63",
+    "expected_sources": [
+      "063_abra.txt"
+    ],
+    "answer": "63",
+    "retrieval_hit": true,
+    "label": "correct",
+    "judge_reason": "Exact match after normalization (rule-based)."
+  },
+  {
+    "id": "auto_005",
+    "category": "single_fact",
+    "question": "What type is Growlithe?",
+    "expected_answer": "fire",
+    "expected_sources": [
+      "058_growlithe.txt"
+    ],
+    "answer": "Fire.",
+    "retrieval_hit": true,
+    "label": "correct",
+    "judge_reason": "Exact match after normalization (rule-based)."
+  },
+  {
+    "id": "auto_006",
+    "category": "single_fact",
+    "question": "What abilities does Clefable have?",
+    "expected_answer": "cute-charm, magic-guard, unaware",
+    "expected_sources": [
+      "036_clefable.txt"
+    ],
+    "answer": "cute-charm, magic-guard, unaware",
+    "retrieval_hit": true,
+    "label": "correct",
+    "judge_reason": "Exact match after normalization (rule-based)."
+  },
+  {
+    "id": "auto_007",
+    "category": "single_fact",
+    "question": "What type is Sandshrew?",
+    "expected_answer": "ground",
+    "expected_sources": [
+      "027_sandshrew.txt"
+    ],
+    "answer": "Ground.",
+    "retrieval_hit": true,
+    "label": "correct",
+    "judge_reason": "Exact match after normalization (rule-based)."
+  },
+  {
+    "id": "auto_008",
+    "category": "single_fact",
+    "question": "What is Kabuto's Pokedex number?",
+    "expected_answer": "140",
+    "expected_sources": [
+      "140_kabuto.txt"
+    ],
+    "answer": "140",
+    "retrieval_hit": true,
+    "label": "correct",
+    "judge_reason": "Exact match after normalization (rule-based)."
+  },
+  {
+    "id": "auto_009",
+    "category": "single_fact",
+    "question": "How tall is Ekans?",
+    "expected_answer": "2.0 m",
+    "expected_sources": [
+      "023_ekans.txt"
+    ],
+    "answer": "2.0 m",
+    "retrieval_hit": true,
+    "label": "correct",
+    "judge_reason": "Exact match after normalization (rule-based)."
+  },
+  {
+    "id": "auto_010",
+    "category": "single_fact",
+    "question": "What is Koffing's Pokedex number?",
+    "expected_answer": "109",
+    "expected_sources": [
+      "109_koffing.txt"
+    ],
+    "answer": "109",
+    "retrieval_hit": true,
+    "label": "correct",
+    "judge_reason": "Exact match after normalization (rule-based)."
+  },
+  {
+    "id": "auto_011",
+    "category": "single_fact",
+    "question": "How tall is Blastoise?",
+    "expected_answer": "1.6 m",
+    "expected_sources": [
+      "009_blastoise.txt"
+    ],
+    "answer": "1.6 m",
+    "retrieval_hit": true,
+    "label": "correct",
+    "judge_reason": "Exact match after normalization (rule-based)."
+  },
+  {
+    "id": "auto_012",
+    "category": "single_fact",
+    "question": "What is Wartortle's Pokedex number?",
+    "expected_answer": "8",
+    "expected_sources": [
+      "008_wartortle.txt"
+    ],
+    "answer": "8",
+    "retrieval_hit": true,
+    "label": "correct",
+    "judge_reason": "Exact match after normalization (rule-based)."
+  },
+  {
+    "id": "auto_013",
+    "category": "single_fact",
+    "question": "How much does Arbok weigh?",
+    "expected_answer": "65.0 kg",
+    "expected_sources": [
+      "024_arbok.txt"
+    ],
+    "answer": "65.0 kg",
+    "retrieval_hit": true,
+    "label": "correct",
+    "judge_reason": "Exact match after normalization (rule-based)."
+  },
+  {
+    "id": "auto_014",
+    "category": "single_fact",
+    "question": "What type is Mankey?",
+    "expected_answer": "fighting",
+    "expected_sources": [
+      "056_mankey.txt"
+    ],
+    "answer": "Fighting.",
+    "retrieval_hit": true,
+    "label": "correct",
+    "judge_reason": "Exact match after normalization (rule-based)."
+  },
+  {
+    "id": "auto_015",
+    "category": "single_fact",
+    "question": "What type is Poliwag?",
+    "expected_answer": "water",
+    "expected_sources": [
+      "060_poliwag.txt"
+    ],
+    "answer": "Water.",
+    "retrieval_hit": true,
+    "label": "correct",
+    "judge_reason": "Exact match after normalization (rule-based)."
+  },
+  {
+    "id": "auto_016",
+    "category": "single_fact",
+    "question": "How much does Gyarados weigh?",
+    "expected_answer": "235.0 kg",
+    "expected_sources": [
+      "130_gyarados.txt"
+    ],
+    "answer": "235.0 kg",
+    "retrieval_hit": true,
+    "label": "correct",
+    "judge_reason": "Exact match after normalization (rule-based)."
+  },
+  {
+    "id": "auto_017",
+    "category": "single_fact",
+    "question": "How tall is Mewtwo?",
+    "expected_answer": "2.0 m",
+    "expected_sources": [
+      "150_mewtwo.txt"
+    ],
+    "answer": "2.0 m",
+    "retrieval_hit": true,
+    "label": "correct",
+    "judge_reason": "Exact match after normalization (rule-based)."
+  },
+  {
+    "id": "auto_018",
+    "category": "single_fact",
+    "question": "What type is Dugtrio?",
+    "expected_answer": "ground",
+    "expected_sources": [
+      "051_dugtrio.txt"
+    ],
+    "answer": "Ground.",
+    "retrieval_hit": true,
+    "label": "correct",
+    "judge_reason": "Exact match after normalization (rule-based)."
+  },
+  {
+    "id": "auto_019",
+    "category": "single_fact",
+    "question": "How much does Lickitung weigh?",
+    "expected_answer": "65.5 kg",
+    "expected_sources": [
+      "108_lickitung.txt"
+    ],
+    "answer": "65.5 kg",
+    "retrieval_hit": true,
+    "label": "correct",
+    "judge_reason": "Exact match after normalization (rule-based)."
+  },
+  {
+    "id": "auto_020",
+    "category": "single_fact",
+    "question": "What type is Primeape?",
+    "expected_answer": "fighting",
+    "expected_sources": [
+      "057_primeape.txt"
+    ],
+    "answer": "Fighting.",
+    "retrieval_hit": true,
+    "label": "correct",
+    "judge_reason": "Exact match after normalization (rule-based)."
+  },
+  {
+    "id": "auto_021",
+    "category": "single_fact",
+    "question": "What abilities does Kangaskhan have?",
+    "expected_answer": "early-bird, scrappy, inner-focus",
+    "expected_sources": [
+      "115_kangaskhan.txt"
+    ],
+    "answer": "Early-bird, scrappy, inner-focus (hidden).",
+    "retrieval_hit": true,
+    "label": "correct",
+    "judge_reason": "Lists all expected abilities."
+  },
+  {
+    "id": "auto_022",
+    "category": "single_fact",
+    "question": "How tall is Tentacool?",
+    "expected_answer": "0.9 m",
+    "expected_sources": [
+      "072_tentacool.txt"
+    ],
+    "answer": "0.9 m",
+    "retrieval_hit": true,
+    "label": "correct",
+    "judge_reason": "Exact match after normalization (rule-based)."
+  },
+  {
+    "id": "auto_023",
+    "category": "single_fact",
+    "question": "What abilities does Ivysaur have?",
+    "expected_answer": "overgrow, chlorophyll",
+    "expected_sources": [
+      "002_ivysaur.txt"
+    ],
+    "answer": "Overgrow and chlorophyll.",
+    "retrieval_hit": true,
+    "label": "correct",
+    "judge_reason": "Lists all expected abilities."
+  },
+  {
+    "id": "auto_024",
+    "category": "single_fact",
+    "question": "How tall is Zubat?",
+    "expected_answer": "0.8 m",
+    "expected_sources": [
+      "041_zubat.txt"
+    ],
+    "answer": "0.8 m",
+    "retrieval_hit": true,
+    "label": "correct",
+    "judge_reason": "Exact match after normalization (rule-based)."
+  },
+  {
+    "id": "auto_025",
+    "category": "single_fact",
+    "question": "How much does Shellder weigh?",
+    "expected_answer": "4.0 kg",
+    "expected_sources": [
+      "090_shellder.txt"
+    ],
+    "answer": "4.0 kg",
+    "retrieval_hit": true,
+    "label": "correct",
+    "judge_reason": "Exact match after normalization (rule-based)."
+  },
+  {
+    "id": "auto_026",
+    "category": "single_fact",
+    "question": "How tall is Golduck?",
+    "expected_answer": "1.7 m",
+    "expected_sources": [
+      "055_golduck.txt"
+    ],
+    "answer": "1.7 m",
+    "retrieval_hit": true,
+    "label": "correct",
+    "judge_reason": "Exact match after normalization (rule-based)."
+  },
+  {
+    "id": "auto_027",
+    "category": "single_fact",
+    "question": "How tall is Gloom?",
+    "expected_answer": "0.8 m",
+    "expected_sources": [
+      "044_gloom.txt"
+    ],
+    "answer": "0.8 m",
+    "retrieval_hit": true,
+    "label": "correct",
+    "judge_reason": "Exact match after normalization (rule-based)."
+  },
+  {
+    "id": "auto_028",
+    "category": "single_fact",
+    "question": "How much does Moltres weigh?",
+    "expected_answer": "60.0 kg",
+    "expected_sources": [
+      "146_moltres.txt"
+    ],
+    "answer": "60.0 kg",
+    "retrieval_hit": true,
+    "label": "correct",
+    "judge_reason": "Exact match after normalization (rule-based)."
+  },
+  {
+    "id": "auto_029",
+    "category": "single_fact",
+    "question": "How tall is Raticate?",
+    "expected_answer": "0.7 m",
+    "expected_sources": [
+      "020_raticate.txt"
+    ],
+    "answer": "0.7 m",
+    "retrieval_hit": true,
+    "label": "correct",
+    "judge_reason": "Exact match after normalization (rule-based)."
+  },
+  {
+    "id": "auto_030",
+    "category": "single_fact",
+    "question": "What type is Sandslash?",
+    "expected_answer": "ground",
+    "expected_sources": [
+      "028_sandslash.txt"
+    ],
+    "answer": "Ground.",
+    "retrieval_hit": true,
+    "label": "correct",
+    "judge_reason": "Exact match after normalization (rule-based)."
+  },
+  {
+    "id": "auto_031",
+    "category": "single_fact",
+    "question": "What is Krabby's Pokedex number?",
+    "expected_answer": "98",
+    "expected_sources": [
+      "098_krabby.txt"
+    ],
+    "answer": "98",
+    "retrieval_hit": true,
+    "label": "correct",
+    "judge_reason": "Exact match after normalization (rule-based)."
+  },
+  {
+    "id": "auto_032",
+    "category": "single_fact",
+    "question": "How much does Electabuzz weigh?",
+    "expected_answer": "30.0 kg",
+    "expected_sources": [
+      "125_electabuzz.txt"
+    ],
+    "answer": "30.0 kg",
+    "retrieval_hit": true,
+    "label": "correct",
+    "judge_reason": "Exact match after normalization (rule-based)."
+  },
+  {
+    "id": "auto_033",
+    "category": "single_fact",
+    "question": "What is Kakuna's Pokedex number?",
+    "expected_answer": "14",
+    "expected_sources": [
+      "014_kakuna.txt"
+    ],
+    "answer": "14",
+    "retrieval_hit": true,
+    "label": "correct",
+    "judge_reason": "Exact match after normalization (rule-based)."
+  },
+  {
+    "id": "auto_034",
+    "category": "single_fact",
+    "question": "How much does Butterfree weigh?",
+    "expected_answer": "32.0 kg",
+    "expected_sources": [
+      "012_butterfree.txt"
+    ],
+    "answer": "32.0 kg",
+    "retrieval_hit": true,
+    "label": "correct",
+    "judge_reason": "Exact match after normalization (rule-based)."
+  },
+  {
+    "id": "auto_035",
+    "category": "single_fact",
+    "question": "How much does Venomoth weigh?",
+    "expected_answer": "12.5 kg",
+    "expected_sources": [
+      "049_venomoth.txt"
+    ],
+    "answer": "12.5 kg",
+    "retrieval_hit": true,
+    "label": "correct",
+    "judge_reason": "Exact match after normalization (rule-based)."
+  },
+  {
+    "id": "auto_036",
+    "category": "single_fact",
+    "question": "What abilities does Weedle have?",
+    "expected_answer": "shield-dust, run-away",
+    "expected_sources": [
+      "013_weedle.txt"
+    ],
+    "answer": "Shield-dust, run-away",
+    "retrieval_hit": true,
+    "label": "correct",
+    "judge_reason": "Exact match after normalization (rule-based)."
+  },
+  {
+    "id": "auto_037",
+    "category": "single_fact",
+    "question": "What abilities does Paras have?",
+    "expected_answer": "effect-spore, dry-skin, damp",
+    "expected_sources": [
+      "046_paras.txt"
+    ],
+    "answer": "Effect-spore, dry-skin, damp.",
+    "retrieval_hit": true,
+    "label": "correct",
+    "judge_reason": "Exact match after normalization (rule-based)."
+  },
+  {
+    "id": "auto_038",
+    "category": "single_fact",
+    "question": "How tall is Aerodactyl?",
+    "expected_answer": "1.8 m",
+    "expected_sources": [
+      "142_aerodactyl.txt"
+    ],
+    "answer": "Aerodactyl is 1.8 m tall.",
+    "retrieval_hit": true,
+    "label": "correct",
+    "judge_reason": "States the correct height."
+  },
+  {
+    "id": "auto_039",
+    "category": "single_fact",
+    "question": "What is Vileplume's Pokedex number?",
+    "expected_answer": "45",
+    "expected_sources": [
+      "045_vileplume.txt"
+    ],
+    "answer": "45",
+    "retrieval_hit": true,
+    "label": "correct",
+    "judge_reason": "Exact match after normalization (rule-based)."
+  },
+  {
+    "id": "auto_040",
+    "category": "single_fact",
+    "question": "How much does Rapidash weigh?",
+    "expected_answer": "95.0 kg",
+    "expected_sources": [
+      "078_rapidash.txt"
+    ],
+    "answer": "95.0 kg",
+    "retrieval_hit": true,
+    "label": "correct",
+    "judge_reason": "Exact match after normalization (rule-based)."
+  },
+  {
+    "id": "manual_001",
+    "category": "comparison",
+    "question": "Which is heavier, Snorlax or Onix?",
+    "expected_answer": "Snorlax",
+    "expected_sources": [
+      "143_snorlax.txt",
+      "095_onix.txt"
+    ],
+    "answer": "Onix. According to the base stats, Onix weighs 210.0 kg, while Snorlax weighs 460.0 kg.",
+    "retrieval_hit": true,
+    "label": "incorrect",
+    "judge_reason": "Wrong answer."
+  },
+  {
+    "id": "manual_002",
+    "category": "comparison",
+    "question": "Which is taller, Onix or Gyarados?",
+    "expected_answer": "Onix",
+    "expected_sources": [
+      "095_onix.txt",
+      "130_gyarados.txt"
+    ],
+    "answer": "Onix.",
+    "retrieval_hit": true,
+    "label": "correct",
+    "judge_reason": "Exact match after normalization (rule-based)."
+  },
+  {
+    "id": "manual_003",
+    "category": "multi_fact",
+    "question": "What are Mewtwo's types and base HP?",
+    "expected_answer": "psychic, base HP 106",
+    "expected_sources": [
+      "150_mewtwo.txt"
+    ],
+    "answer": "Mewtwo's types are psychic and its base HP is 106.",
+    "retrieval_hit": true,
+    "label": "correct",
+    "judge_reason": "Contains all expected information."
+  },
+  {
+    "id": "manual_004",
+    "category": "typo",
+    "question": "wat type is charmandr",
+    "expected_answer": "fire",
+    "expected_sources": [
+      "004_charmander.txt"
+    ],
+    "answer": "Fire.",
+    "retrieval_hit": true,
+    "label": "correct",
+    "judge_reason": "Exact match after normalization (rule-based)."
+  },
+  {
+    "id": "manual_005",
+    "category": "paraphrase",
+    "question": "Is Gengar a ghost Pokemon?",
+    "expected_answer": "Yes, Gengar is ghost and poison type",
+    "expected_sources": [
+      "094_gengar.txt"
+    ],
+    "answer": "Yes, Gengar is a ghost Pok\u00e9mon.",
+    "retrieval_hit": true,
+    "label": "correct",
+    "judge_reason": "States the correct type."
+  },
+  {
+    "id": "manual_006",
+    "category": "unanswerable",
+    "question": "What type is Togepi?",
+    "expected_answer": "I don't know.",
+    "expected_sources": [],
+    "answer": "I don't know.",
+    "retrieval_hit": null,
+    "label": "correct",
+    "judge_reason": "Correctly declined to answer (rule-based)."
+  },
+  {
+    "id": "manual_007",
+    "category": "memory_trap",
+    "question": "What does Pikachu evolve into?",
+    "expected_answer": "I don't know.",
+    "expected_sources": [],
+    "answer": "I don't know.",
+    "retrieval_hit": null,
+    "label": "correct",
+    "judge_reason": "Correctly declined to answer (rule-based)."
+  },
+  {
+    "id": "manual_008",
+    "category": "memory_trap",
+    "question": "What moves can Charizard learn?",
+    "expected_answer": "I don't know.",
+    "expected_sources": [],
+    "answer": "I don't know.",
+    "retrieval_hit": null,
+    "label": "correct",
+    "judge_reason": "Correctly declined to answer (rule-based)."
+  },
+  {
+    "id": "manual_009",
+    "category": "memory_trap",
+    "question": "Which Pokemon is a red lizard with big eyes?",
+    "expected_answer": "I don't know.",
+    "expected_sources": [],
+    "answer": "I don't know.",
+    "retrieval_hit": null,
+    "label": "correct",
+    "judge_reason": "Correctly declined to answer (rule-based)."
+  },
+  {
+    "id": "manual_010",
+    "category": "description_lookup",
+    "question": "Which Pokemon has steam coming out of its tail when it rains?",
+    "expected_answer": "Charmander",
+    "expected_sources": [
+      "004_charmander.txt"
+    ],
+    "answer": "Charmander.",
+    "retrieval_hit": true,
+    "label": "correct",
+    "judge_reason": "Exact match after normalization (rule-based)."
+  }
+]

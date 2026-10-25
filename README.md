@@ -17,6 +17,8 @@ The knowledge base is the **151 Generation 1 Pokémon**, pulled from [PokéAPI](
 - [Project structure](#project-structure)
 - [Getting started](#getting-started)
 - [Step-by-step build log](#step-by-step-build-log)
+- [Current results](#current-results)
+- [Key lessons](#key-lessons)
 - [Roadmap](#roadmap)
 
 ---
@@ -83,8 +85,16 @@ rag-eval-project/
 │   └── docs/              # 151 Pokémon documents (one .txt per Pokémon)
 ├── src/
 │   ├── __init__.py
-│   └── fetch_data.py      # Downloads Pokémon data from PokéAPI
-├── evals/                 # Golden dataset, metrics and evaluation tests
+│   ├── fetch_data.py      # Downloads Pokémon data from PokéAPI
+│   ├── retriever.py       # Embedding-based semantic search
+│   └── rag.py             # Full RAG pipeline: retrieve + generate
+├── evals/
+│   ├── generate_dataset.py  # Builds auto-generated test cases from the docs
+│   ├── golden_dataset.json  # 40 auto-generated single-fact cases
+│   ├── manual_cases.json    # Hand-written edge cases
+│   ├── judge.py             # LLM-as-a-judge with rule-based pre-checks
+│   ├── run_eval.py          # Runs the RAG on every case and reports metrics
+│   └── results/             # Timestamped results of each evaluation run
 ├── test_connection.py     # Sanity check that the local LLM responds
 ├── requirements.txt
 ├── .gitignore
@@ -126,6 +136,13 @@ python test_connection.py
 
 # 6. Download the Pokémon data
 python src/fetch_data.py
+
+# 7. Try the RAG app
+python -m src.rag
+
+# 8. Generate the dataset and run the full evaluation
+python evals/generate_dataset.py
+python -m evals.run_eval
 ```
 
 ---
@@ -196,15 +213,130 @@ Pushed the project to GitHub with the default branch renamed to `main`, verifyin
 
 Added `requirements.txt` so anyone (including the CI pipeline) can reproduce the environment with a single command.
 
+### Step 8 — Retriever (semantic search)
+
+`src/retriever.py` converts every document and every question into an **embedding** using the `all-MiniLM-L6-v2` model, then returns the documents whose vectors are closest to the question (cosine similarity).
+
+Since each Pokémon file is short, **each document is a single chunk**, so no splitting is needed.
+
+Observation: for "What type is Pikachu?", the top result was correct (Pikachu), but the 2nd and 3rd were Pidgeot and Pidgeotto, likely because of the similar "Pi-" prefix. Embedding similarity is not always semantically meaningful, which is why retrieval needs to be measured, not assumed.
+
+### Step 9 — Generation (completing the RAG)
+
+`src/rag.py` retrieves the top 3 documents and sends them to `llama3.2` with a prompt that instructs the model to:
+
+- answer **only** using the provided context
+- reply exactly `"I don't know."` when the context does not contain the answer
+
+`temperature` is set to `0` to reduce output variability, which makes evaluation more stable. The pipeline returns the retrieved contexts along with the answer, because evaluation metrics need them.
+
+### Step 10 — Golden dataset (auto-generated)
+
+`evals/generate_dataset.py` builds 40 test cases by picking random Pokémon and filling question templates ("What type is {name}?", "How much does {name} weigh?", etc.). The expected answer is read directly from the source document, and the source file name is stored so retrieval can be checked too.
+
+A **fixed random seed** guarantees the same dataset on every run. This is essential for regression testing: you cannot compare two runs if the test set changes between them.
+
+### Step 11 — Hand-written edge cases
+
+Auto-generated cases are all the same shape: one clean, well-phrased question about one Pokémon. Real users are messier, so `evals/manual_cases.json` adds cases that target specific risks:
+
+| Category | What it tests |
+|---|---|
+| `comparison` | Retrieval of **two** documents and reasoning across them |
+| `multi_fact` | Combining several facts from one document |
+| `typo` / `paraphrase` | Robustness to misspellings and different phrasings |
+| `description_lookup` | Finding a Pokémon by its description instead of its name |
+| `unanswerable` | A Pokémon that is not in the knowledge base (Gen 2) |
+| `memory_trap` | Questions the model **knows** from training but the documents don't cover (e.g. evolutions). Answering them means the model ignored the context. |
+
+Every expected answer was verified against the source documents. For example, a case asking for "a red lizard with big eyes" was classified as a memory trap, because Charmander's document does not contain that description.
+
+### Step 12 — Evaluation runner
+
+`evals/run_eval.py` runs the RAG on every case, checks whether the expected documents were retrieved (**retrieval hit rate**), and saves timestamped results to `evals/results/` so runs can be compared over time.
+
+### Step 13 — LLM-as-a-judge and its calibration
+
+`evals/judge.py` uses `qwen2.5:7b` to label each answer as `correct`, `partial`, or `incorrect` against the expected answer.
+
+Before trusting the judge, it was tested on 5 cases with obvious expected labels. The first version agreed on only **2/5**, including a critical bug: it scored an **over-refusal** ("I don't know." when an answer existed) as a perfect answer. Three design changes brought it to **5/5**:
+
+1. **Rule-based checks for refusals.** "I don't know." cases are decided by code, not by the LLM. A small model struggles with conditional rules, and a deterministic check is always right. Principle: *don't ask an LLM to do what code can do with certainty.*
+2. **A 3-label scale instead of 1–5.** The difference between a 4 and a 5 is subjective even for humans; a small judge cannot apply it consistently.
+3. **Few-shot examples** in the judge prompt. The examples use different Pokémon than the test cases, to avoid the judge passing because it has already seen the answers.
+
+### Step 14 — Error analysis
+
+The first full run reported **89% correctness**. Every failure was then reviewed by hand and classified by root cause:
+
+| Root cause | Cases | What happened |
+|---|---|---|
+| **Dataset error** | 5 | Expected answers included details the question never asked for, such as the "(hidden)" ability tag or the numbers behind a comparison |
+| **Judge error** | 2 | "Fighting." was marked wrong against "fighting" because of capitalization and punctuation |
+| **RAG error** | 1 | The model quoted both weights correctly (Snorlax 460 kg, Onix 210 kg) but concluded that Onix was heavier |
+
+Fixes:
+
+- Removed the "(hidden)" tag from generated expected answers and simplified comparison answers.
+- Added an **exact-match check after normalization** (lowercase, trimmed, no trailing period) before calling the judge. A "contains" check was deliberately avoided: the wrong Snorlax/Onix answer *mentions* Snorlax, so "contains" would have hidden a real failure.
+
+After the fixes, correctness rose to **98%**, and the only remaining failure is the genuine RAG error.
+
+---
+
+## Current results
+
+Latest run: 50 test cases (40 auto-generated + 10 hand-written).
+
+| Category | Retrieval hit rate | Correctness | n |
+|---|---|---|---|
+| single_fact | 40/40 | 100% | 40 |
+| comparison | 2/2 | 50% | 2 |
+| description_lookup | 1/1 | 100% | 1 |
+| multi_fact | 1/1 | 100% | 1 |
+| paraphrase | 1/1 | 100% | 1 |
+| typo | 1/1 | 100% | 1 |
+| memory_trap | n/a | 100% | 3 |
+| unanswerable | n/a | 100% | 1 |
+| **Overall** | | **98%** | 50 |
+
+Correctness score: `correct` = 1, `partial` = 0.5, `incorrect` = 0.
+
+**Findings:**
+
+- **Retrieval is not the bottleneck.** Every expected document was retrieved.
+- **Cross-document reasoning is the main weakness.** In the failed comparison, retrieval was perfect but the 3B generator drew the wrong conclusion from correct data.
+- **The model respects the context.** All memory traps were answered with "I don't know." instead of facts from training data.
+
+**Known limitations:**
+
+- Edge-case categories have only 1–3 cases each, which is too few for statistically meaningful conclusions. A target of at least 10 cases per category is planned.
+- The judge was validated on only 5 cases. A larger calibration against human labels is planned.
+- Each case was run once. Variance across repeated runs has not been measured yet.
+
+---
+
+## Key lessons
+
+1. **A metric is only as reliable as the dataset and the judge behind it.** The first run reported 89%, but only 1 of 8 failures was a real system error. Without error analysis, that number would have been misleading.
+2. **Always validate the judge before using it.** An LLM judge is itself a probabilistic system and can be wrong in systematic ways.
+3. **Prefer deterministic checks where possible.** Rules handle refusals and exact matches reliably; the LLM judge is reserved for cases that need interpretation.
+4. **Design rules carefully.** A naive "contains" check would have turned a real failure into a pass.
+5. **Separate retrieval from generation.** Measuring both independently showed that the comparison failure came from reasoning, not from search.
+
 ---
 
 ## Roadmap
 
 - [x] Project setup and local LLM
 - [x] Knowledge base from PokéAPI
-- [ ] **RAG app:** chunking, embeddings, retrieval, and answer generation
-- [ ] **Golden dataset:** 50–100 test questions with expected answers, including edge cases and unanswerable questions
-- [ ] **Metrics:** faithfulness, answer relevancy, and context recall using an LLM-as-a-judge
+- [x] **RAG app:** embeddings, retrieval, and answer generation
+- [x] **Golden dataset:** 50 test cases, including edge cases and unanswerable questions
+- [x] **Retrieval metric:** retrieval hit rate per category
+- [x] **Correctness metric:** LLM-as-a-judge with rule-based pre-checks, validated on known cases
+- [x] **Error analysis:** failures classified as dataset, judge, or system errors
+- [ ] **More edge cases:** at least 10 cases per category
+- [ ] **More metrics:** faithfulness and answer relevancy
 - [ ] **Acceptance criteria:** threshold-based pass/fail for a probabilistic system, with repeated runs to measure variance
 - [ ] **Judge calibration:** compare judge scores against manual human scores (Cohen's kappa / correlation) and refine the judge rubric
 - [ ] **Regression testing:** compare scores across prompt and model versions
